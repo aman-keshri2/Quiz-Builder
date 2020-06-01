@@ -1,0 +1,13 @@
+body,
+html,
+#root {
+  height: 100%;
+}
+
+.background {
+  height: 100%;
+  background-color: rgba(74, 97, 242, 1);
+}
+.create-quiz:hover {
+  cursor: pointer;
+}

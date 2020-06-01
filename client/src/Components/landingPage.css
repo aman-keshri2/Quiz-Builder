@@ -1,0 +1,13 @@
+body,
+html,
+#root {
+  height: 100%;
+}
+
+.banner {
+  height: 100%;
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
